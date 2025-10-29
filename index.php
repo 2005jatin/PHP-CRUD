@@ -1,5 +1,6 @@
 <?php
 include("insert.php");
+include("SORT.PHP");
 ?>
 
 <!doctype html>
@@ -126,5 +127,6 @@ include("insert.php");
     </div>
 
 </body>
+
 
 </html>
